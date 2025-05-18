@@ -1,4 +1,4 @@
-# GATA_Bot 🌅 GATA Bot [v1.9.0]
+# GATA_Bot 🌅 GATA Bot [v1.0.9]
 
 ![Demo](https://i.imgur.com/uW631d1.jpeg)
 
